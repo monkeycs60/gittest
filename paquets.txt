@@ -1,1 +1,3 @@
+installation
+distante : apt - yum
 la liste des paquets Linux
