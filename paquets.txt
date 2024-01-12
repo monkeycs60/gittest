@@ -1,1 +1,2 @@
+installation local : dpkg – rpm
 la liste des paquets Linux
